@@ -1,0 +1,76 @@
+
+   
+
+
+a=int(input("enter the value of a:"))
+b=int(input("enter the value of b:"))
+#to calculate sum of a+b
+c=a+b
+print(c)
+
+
+
+
+
+
+
+
+
+
+
+a=int(input("enter the value of a:"))
+b=int(input("enter the value of b:"))
+#to claculate subtraction of two values a and b
+c=a-b
+print(c)
+
+
+
+
+
+a=int(input("enter the value of a:"))
+b=int(input("enter the value of b:"))
+#to divide a by b
+c=a/b
+print(c)
+
+
+
+enter the value of a:7
+enter the value of b:9
+0.7777777777777778
+
+
+
+
+a=int(input("enter the value of a:"))
+b=int(input("enter the value of b:"))
+#to divide a by b
+c=a*b
+print(c)
+
+
+
+
+enter the value of a:7
+enter the value of b:9
+63
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
